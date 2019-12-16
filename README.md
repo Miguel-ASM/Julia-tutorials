@@ -2,9 +2,9 @@
 
 A collection of Jupyter notebooks showing typical tasks that can be done with ```julia```. It include such things as Linear algebra, plots and graphics, numerical solution of nonlinear equations, numerical integration of ordinary differential equations, Montecarlo problems and numerical integration of Stochastic differential equations.
 
-The notebooks can be viewed as static web pages in the repository, however there is a [binder image](https://mybinder.org/v2/gh/Miguel-ASM/Julia-tutorials/master) of the repository that allows to experiment (run/edit/modify) with the notebooks without installing any software in your computer.
+The notebooks can be viewed as static web pages in the repository, however there is a [binder image](https://mybinder.org/v2/gh/Miguel-ASM/Julia-tutorials/binder-deployment) of the repository that allows to experiment (run/edit/modify) with the notebooks without installing any software in your computer.
 
-This badge ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Miguel-ASM/Julia-tutorials/master)) is a link to the [binder image](https://mybinder.org/v2/gh/Miguel-ASM/Julia-tutorials/master).
+This badge ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Miguel-ASM/Julia-tutorials/binder-deployment)) is a link to the [binder image](https://mybinder.org/v2/gh/Miguel-ASM/Julia-tutorials/binder-deployment).
 
 
 
